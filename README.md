@@ -11,4 +11,4 @@ https://kitsu.io/api/edge/anime?filter[text]=search
 ![alt text](https://github.com/Colazhai/DADLabActivity/blob/master/Screenshot1.png)
 
 # Screenshot2
-![alt text](https://github.com/Colazhai/DADLabActivity/blob/master/Screenshot1.png)
+![alt text](https://github.com/Colazhai/DADLabActivity/blob/master/Screenshot2.png)
