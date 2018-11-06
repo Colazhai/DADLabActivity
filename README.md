@@ -3,3 +3,10 @@ Lab Activity for subject Distribution Application Development to develop a appli
 
 # API link used
 https://kitsu.io/api/edge/anime?filter[text]=search
+
+# Response
+![alt text](http://url/to/img.png)
+
+# Screenshot1 
+
+# Screenshot2
