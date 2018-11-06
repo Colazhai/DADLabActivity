@@ -5,8 +5,9 @@ Lab Activity for subject Distribution Application Development to develop a appli
 https://kitsu.io/api/edge/anime?filter[text]=search
 
 # Response
-![](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![](https://github.com/Colazhai/DADLabActivity/blob/master/Screenshot1.png)
 
 # Screenshot1 
-
+![alt text](https://github.com/Colazhai/DADLabActivity/blob/master/Screenshot1.png)
 # Screenshot2
+![alt text](https://github.com/Colazhai/DADLabActivity/blob/master/Screenshot1.png)
