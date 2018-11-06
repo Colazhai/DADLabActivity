@@ -5,7 +5,7 @@ Lab Activity for subject Distribution Application Development to develop a appli
 https://kitsu.io/api/edge/anime?filter[text]=search
 
 # Response
-![alt text](http://url/to/img.png)
+![](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 # Screenshot1 
 
